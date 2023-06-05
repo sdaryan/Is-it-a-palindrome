@@ -42,7 +42,7 @@ my_string = "level"
 if my_string == "".join(reversed(my_string)):
     print("The string is a palindrome")
 else:
-    print("The string is not a p
+    print("The string is not a palindrome")
 ```
 روش دوم
 ```python
